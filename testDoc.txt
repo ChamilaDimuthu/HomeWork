@@ -2,16 +2,11 @@ books
 1. Hunger Game
 2. Harry Potter
 3. Hobbit
-<<<<<<< HEAD
 4.2001
 5. 30001
 6.Hobbit 2
-=======
-4. Rebecca
-5. Ramas
-<<<<<<< HEAD
-6. Aladin
-=======
->>>>>>> origin/master
-6. Mark Twain
->>>>>>> Chamila
+7. Rebecca
+8. Ramas
+9. Aladin
+10. Mark Twain
+
